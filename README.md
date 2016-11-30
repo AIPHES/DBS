@@ -1,6 +1,6 @@
 # Coherent Abstracts from multiple heterogenous sources exracted from DBS
 ##License
-This resource is under CC-BY licence. If you use this corpus, please cite the following paper:
+This resource is under CC-BY license. If you use this corpus, please cite the following paper:
 
 @inproceedings{coling2016,
 	author = {Darina Benikova and Margot Mieskes and Christian M. Meyer and Iryna Gurevych},
