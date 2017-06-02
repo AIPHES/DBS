@@ -7,8 +7,8 @@ The multi-document summaries are the result of a seven step annotation process y
 If you use the corpus in academic works, please cite our COLING paper:
 
 ```
-  @InProceedings{coling2016,
-    author = {Benikova, Darina and Mieskes, Margot and Meyer, Christian M. and Gurevych, Iryna}, 
+@InProceedings{coling2016,
+  author = {Benikova, Darina and Mieskes, Margot and Meyer, Christian M. and Gurevych, Iryna}, 
   title = {Bridging the gap between extractive and abstractive summaries: Creation and evaluation of coherent extracts from heterogeneous sources},
   booktitle = {Proceedings of the 26th International Conference on Computational Linguistics (COLING)},
   month = {December},
